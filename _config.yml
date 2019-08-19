@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TS and TJ
-tab_title: TS and TJ : Two Idiots, One Common Name #This text shows up on the browser tab
+tab_title: TS and TJ - Two Idiots, One Common Name #This text shows up on the browser tab
 email:
 description: Two Idiots, One Common Name
 url: "https://theamber.github.io/TS-and-TJ/" # the base hostname & protocol for your site
